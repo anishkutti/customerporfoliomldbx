@@ -21,7 +21,7 @@ jobs:
   # Bundle validation is automatically performed as part of this deployment.
   # If validation fails, this workflow fails.
   deploy:
-    name: 'Deploy bundle'
+    name: 'Deploy bundle-stage'
     runs-on: ubuntu-latest
     environment: stage
 
