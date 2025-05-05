@@ -15,7 +15,7 @@ on:
 
 jobs:
   deploy:
-    name: 'Deploy bundle'
+    name: 'Deploy bundle-dev'
     runs-on: ubuntu-latest
     environment: dev
 
